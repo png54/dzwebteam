@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api.php
+Disallow: /admin
+Disallow: /*.php$
+
+Sitemap: https://dzwebteam.com/sitemap.xml
